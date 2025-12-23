@@ -19,8 +19,8 @@ for acquiring firms.
 - Logistic regression to predict positive announcement-window returns
 
 ## Key Findings
-- Average abnormal returns are close to zero
-- Deal-level characteristics have limited predictive power
+- Average adjusted returns are close to zero
+- Deal-level characteristics have very limited predictive power
 - Results are consistent with semi-strong market efficiency
 
 ## Repository Structure
