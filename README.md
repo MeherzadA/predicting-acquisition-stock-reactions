@@ -51,16 +51,16 @@ closed).
 Overall, short-term market reactions are difficult to explain using observable deal
 characteristics alone, consistent with efficienct market theory and previous studies (sources of which are provided below and in the full pdf report).
 
-## Repository Structure
-data/
-    acquisitions_raw.csv
-    acquisitions_processed.csv
-src/
-    get_acquisition_metrics.py
-analysis/
-    M&A Analysis.ipynb
-report/
-    Market Reaction to Acquirers in Merger and Acquisition Announcements.pdf
+## Repository Structure   
+data/   
+|___ acquisitions_raw.csv     
+|___ acquisitions_processed.csv  
+src/    
+|___ get_acquisition_metrics.py   
+analysis/      
+|___ M&A Analysis.ipynb            
+report/    
+|___    Market Reaction to Acquirers in Merger and Acquisition Announcements.pdf
 
 
 ## Files
